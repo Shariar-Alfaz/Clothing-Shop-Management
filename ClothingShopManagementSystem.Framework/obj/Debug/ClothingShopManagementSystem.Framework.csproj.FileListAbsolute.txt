@@ -1,0 +1,12 @@
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\bin\Debug\ClothingShopManagementSystem.Framework.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\bin\Debug\ClothingShopManagementSystem.Framework.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\bin\Debug\ClothingShopManagementSystem.Framework.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\bin\Debug\EntityFramework.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\bin\Debug\EntityFramework.xml
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\obj\Debug\ClothingShopManagementSystem.Framework.csprojAssemblyReference.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\obj\Debug\ClothingShopManagementSystem.Framework.csproj.CoreCompileInputs.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\obj\Debug\ClothingShopManagementSystem.Framework.csproj.CopyComplete
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\obj\Debug\ClothingShopManagementSystem.Framework.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Framework\obj\Debug\ClothingShopManagementSystem.Framework.pdb

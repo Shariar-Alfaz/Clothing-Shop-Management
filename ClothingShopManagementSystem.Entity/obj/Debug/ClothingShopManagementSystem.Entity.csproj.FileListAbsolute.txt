@@ -1,0 +1,7 @@
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Entity\bin\Debug\ClothingShopManagementSystem.Entity.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Entity\bin\Debug\ClothingShopManagementSystem.Entity.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Entity\bin\Debug\ClothingShopManagementSystem.Entity.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Entity\obj\Debug\ClothingShopManagementSystem.Entity.csprojAssemblyReference.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Entity\obj\Debug\ClothingShopManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Entity\obj\Debug\ClothingShopManagementSystem.Entity.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Entity\obj\Debug\ClothingShopManagementSystem.Entity.pdb

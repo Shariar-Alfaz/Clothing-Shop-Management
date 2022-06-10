@@ -1,0 +1,7 @@
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.csprojAssemblyReference.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.pdb
